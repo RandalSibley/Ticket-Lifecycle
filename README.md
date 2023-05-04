@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lQmF05e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this picture I am opening a new ticket as a client in osTicket.
@@ -38,7 +38,7 @@ In this picture I am opening a new ticket as a client in osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/odDuvCl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this picture I am reviewing all the unresolved tickets from the admin portal.
@@ -46,7 +46,7 @@ In this picture I am reviewing all the unresolved tickets from the admin portal.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ROclvW7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this picture I am resolving all the unresolved tickets from the admin portal of osTicket.
