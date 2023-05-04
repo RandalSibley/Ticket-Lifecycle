@@ -51,4 +51,4 @@ In this picture I am reviewing all the unresolved tickets from the admin portal.
 <p>
 In this picture I am resolving all the unresolved tickets from the admin portal of osTicket.
 </p>
-<br />
+<br /> 
